@@ -2,7 +2,7 @@
 
 ## Overview
 
-We aim to use Python and unsupervised learning techniques to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Clustering analysis is used on the cryptocurrency market data, imported from the */Resources/crypto_market_data.csv* file, to group similar cryptocurrencies based on their price change patterns.
+Python and unsupervised learning techniques are used to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. Clustering analysis is used on the cryptocurrency market data, imported from the */Resources/crypto_market_data.csv* file, to group similar cryptocurrencies based on their price change patterns.
 
 ## Purpose and Goals
 
